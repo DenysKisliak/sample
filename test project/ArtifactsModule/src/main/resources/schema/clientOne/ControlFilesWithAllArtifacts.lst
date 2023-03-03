@@ -1,0 +1,6 @@
+groovy/g_script.groovy
+procedure/TEST_PROC.xml
+script/js_script.js
+window/test_window.json
+
+#also planning to implement navigation from this string to files
